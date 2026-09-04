@@ -9,17 +9,17 @@ working with clients in the UK, US and EU.
 
 **Live work**
 
-- [blacktribefashion.com](https://blacktribefashion.com) — e-commerce for a Nigerian fashion label, online and in-store through one order pipeline
-- [hairbytimablaq.com](https://hairbytimablaq.com) — multi-currency retail across five markets
-- [toolvinementors.com](https://toolvinementors.com) — mentoring platform for a nonprofit
-- [trovarci.sh](https://trovarci.sh) — email deliverability and verification tools
-- [locappoint.com](https://locappoint.com) — booking platform for local service businesses
+- [blacktribefashion.com](https://blacktribefashion.com) &nbsp; E-commerce for a Nigerian fashion label. Online and in-store orders through one pipeline.
+- [hairbytimablaq.com](https://hairbytimablaq.com) &nbsp; Multi-currency retail across five markets.
+- [toolvinementors.com](https://toolvinementors.com) &nbsp; Mentoring platform for a nonprofit.
+- [trovarci.sh](https://trovarci.sh) &nbsp; Email deliverability and verification tools.
+- [locappoint.com](https://locappoint.com) &nbsp; Booking platform for local service businesses.
 
 **Mostly working with**
 
-JavaScript and TypeScript · Node.js and Express · PostgreSQL with row level security ·
-React · Docker, Traefik and Coolify on self-hosted Linux · payment gateway integration
-and webhook reconciliation
+JavaScript and TypeScript. Node.js and Express. PostgreSQL with row level security.
+React. Docker, Traefik and Coolify on self-hosted Linux. Payment gateway integration
+and webhook reconciliation.
 
 Open to backend, platform and full-stack roles in Germany.
 
