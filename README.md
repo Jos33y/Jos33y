@@ -1,16 +1,26 @@
-## Hi there 👋
+## Joseph Lagbalu
 
-<!--
-**Jos33y/Jos33y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build payment systems and the infrastructure they run on. Six years across production
+fintech, e-commerce and self-hosted platforms, usually as the only engineer on the
+project.
 
-Here are some ideas to get you started:
+Currently self-employed through [The Brick Dev Studios](https://thebrickdev.com),
+working with clients in the UK, US and EU.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Live work**
+
+- [blacktribefashion.com](https://blacktribefashion.com) — e-commerce for a Nigerian fashion label, online and in-store through one order pipeline
+- [hairbytimablaq.com](https://hairbytimablaq.com) — multi-currency retail across five markets
+- [toolvinementors.com](https://toolvinementors.com) — mentoring platform for a nonprofit
+- [trovarci.sh](https://trovarci.sh) — email deliverability and verification tools
+- [locappoint.com](https://locappoint.com) — booking platform for local service businesses
+
+**Mostly working with**
+
+JavaScript and TypeScript · Node.js and Express · PostgreSQL with row level security ·
+React · Docker, Traefik and Coolify on self-hosted Linux · payment gateway integration
+and webhook reconciliation
+
+Open to backend, platform and full-stack roles in Germany.
+
+josephlagbalu@gmail.com
